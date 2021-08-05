@@ -40,7 +40,7 @@ html {
 }
 
 body {
-  background-image: url("misc_assets/leaf footer2.png"), url("misc_assets/dove bg test5.png");
+  background-image: url("misc_assets/leaf footer2.png"), url("misc_assets/dove bg test5.PNG");
   background-repeat: repeat-x, no-repeat;
   background-attachment: scroll, fixed;
   background-size: 55%, cover;
